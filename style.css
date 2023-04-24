@@ -50,3 +50,28 @@ width: 20%;
 .estudante-imagem{
     width: 120px;
 }
+
+.estudante-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+}
+
+.estudante{
+    background-image: linear-gradient(#E70707,#000000);
+    color: white;
+}
+
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 50px 0;
+}
